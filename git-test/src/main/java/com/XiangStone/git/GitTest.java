@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("Hello,git----master");
         System.out.println("Hello,git----hot-fix");
         System.out.println("Hello,git----hot-fix22222");
+        System.out.println("ssh commit success!!!");
     }
 }
