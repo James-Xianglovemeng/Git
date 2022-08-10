@@ -16,5 +16,7 @@ public class GitTest {
         System.out.println("ssh commit success!!!");
         System.out.println("update code by GitHub~");
         System.out.println("update code by gitee");
+        System.out.println("update code on gitee");
+        System.out.println("update code on gitee");
     }
 }
