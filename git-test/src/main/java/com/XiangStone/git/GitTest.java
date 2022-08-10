@@ -19,5 +19,6 @@ public class GitTest {
         System.out.println("update code on gitee");
         System.out.println("update code on gitee");
         System.out.println("upload to GitHub");
+        System.out.println("upload to GitHub");
     }
 }
